@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "webpack": "4.1.1",
-    "babel": "v7.0.0-beta.40",
+    "babel": "6.23.0",
     "jest": "22.4.2",
     "eslint": "^4.15.0",
     "eslint-config-airbnb-base": "^11.3.0",
