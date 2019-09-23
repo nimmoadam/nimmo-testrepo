@@ -1,27 +1,24 @@
 {
-  "extends": ["config:base"],
-  "reviewers": ["nimmoadam"],
-  "baseBranches": ["master"],
-  "automerge": true,
-  "major": {
-    "automerge": false
-  },
-  "timezone": "Europe/Berlin",
-  "prBodyColumns": ["Package", "Update", "Type", "Change", "Sourcegraph"],
-  "groupName": "all dependencies",
-  "separateMajorMinor": false,
-  "groupSlug": "all",
-  "packageRules": [
-    {
-      "packagePatterns": [
-        "*"
-      ],
-      "groupName": "all dependencies",
-      "groupSlug": "all"
-    }
-  ],
-  "lockFileMaintenance": {
-    "enabled": false
-  }
-}
+	"extends": ["config:base"],
+	"reviewers": ["nimmoadam"],
+	"baseBranches": ["master"],
+	"automerge": true,
+	"major": {
+		"automerge": false
+	},
+	"timezone": "Europe/Berlin",
+	"prBodyColumns": ["Package", "Update", "Type", "Change", "Sourcegraph"],
+	"groupName": "all dependencies",
+	"separateMajorMinor": false,
+	"groupSlug": "all",
+	"packageRules": [{
+		"packagePatterns": [
+			"*"
+		],
+		"groupName": "all dependencies",
+		"groupSlug": "all"
+	}],
+	"lockFileMaintenance": {
+		"enabled": false
+	}
 }
