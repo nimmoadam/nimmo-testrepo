@@ -8,7 +8,6 @@
   },
   "timezone": "Europe/Berlin",
   "prBodyColumns": ["Package", "Update", "Type", "Change", "Sourcegraph"],
-  {
   "groupName": "all dependencies",
   "separateMajorMinor": false,
   "groupSlug": "all",
