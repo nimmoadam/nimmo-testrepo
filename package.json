@@ -17,18 +17,18 @@
     "husky": "0.3.0",
     "eslint": "6.3.0",
     "semantic-release": "12.0.0",
-    "vue": "^2.5.2"
+    "vue": "2.6.12"
   },
   "devDependencies": {
     "webpack": "4.1.1",
     "babel": "v7.0.0-beta.40",
     "jest": "22.4.2",
-    "eslint": "^4.15.0",
-    "eslint-config-airbnb-base": "^11.3.0",
-    "eslint-friendly-formatter": "^3.0.0",
-    "eslint-import-resolver-webpack": "^0.8.3",
-    "eslint-loader": "^1.7.1",
-    "eslint-plugin-import": "^2.7.0",
-    "eslint-plugin-vue": "^4.0.0"
+    "eslint": "4.19.1",
+    "eslint-config-airbnb-base": "11.3.2",
+    "eslint-friendly-formatter": "3.0.0",
+    "eslint-import-resolver-webpack": "0.8.4",
+    "eslint-loader": "1.9.0",
+    "eslint-plugin-import": "2.22.1",
+    "eslint-plugin-vue": "4.7.1"
   }
 }
