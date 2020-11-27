@@ -16,7 +16,7 @@
     "git-cz": "1.0.0",
     "husky": "0.3.0",
     "eslint": "6.3.0",
-    "semantic-release": "12.0.0",
+    "semantic-release": "17.2.3",
     "vue": "^2.5.2"
   },
   "devDependencies": {
