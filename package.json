@@ -8,27 +8,27 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "react": "16.2.0",
-    "react-dom": "16.2.0",
-    "react-redux": "5.0.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "9.1.0",
     "axios": "0.17.1",
-    "commitizen": "3.1.1",
-    "git-cz": "1.0.0",
-    "husky": "0.3.0",
-    "eslint": "6.3.0",
+    "commitizen": "4.3.0",
+    "git-cz": "4.9.0",
+    "husky": "9.0.11",
+    "eslint": "8.57.0",
     "semantic-release": "12.0.0",
-    "vue": "^2.5.2"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
-    "webpack": "4.1.1",
+    "webpack": "5.91.0",
     "babel": "v7.0.0-beta.40",
-    "jest": "22.4.2",
-    "eslint": "^4.15.0",
-    "eslint-config-airbnb-base": "^11.3.0",
-    "eslint-friendly-formatter": "^3.0.0",
-    "eslint-import-resolver-webpack": "^0.8.3",
-    "eslint-loader": "^1.7.1",
+    "jest": "29.7.0",
+    "eslint": "^8.0.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-friendly-formatter": "^4.0.0",
+    "eslint-import-resolver-webpack": "^0.13.0",
+    "eslint-loader": "^4.0.0",
     "eslint-plugin-import": "^2.7.0",
-    "eslint-plugin-vue": "^4.0.0"
+    "eslint-plugin-vue": "^9.0.0"
   }
 }
