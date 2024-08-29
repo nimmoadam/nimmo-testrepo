@@ -20,7 +20,7 @@
     "vue": "^2.5.2"
   },
   "devDependencies": {
-    "webpack": "4.1.1",
+    "webpack": "5.94.0",
     "babel": "v7.0.0-beta.40",
     "jest": "22.4.2",
     "eslint": "^4.15.0",
