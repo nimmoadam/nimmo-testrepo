@@ -17,7 +17,7 @@
     "husky": "0.3.0",
     "eslint": "6.3.0",
     "semantic-release": "12.0.0",
-    "vue": "^2.5.2"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "webpack": "4.1.1",
